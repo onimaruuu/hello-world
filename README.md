@@ -2,7 +2,5 @@
 dev and games
 
 my name is irwin , hello there world
-i like potato chips with the flavour of sour cream
-my fav game is doom as its doom
-
-what is the line
+This is my first time coding 
+Sorry as its my first time
